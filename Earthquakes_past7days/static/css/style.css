@@ -13,3 +13,9 @@ body,
   background-color: #fff;
   border-radius: 5px;
 }
+.legend i {
+  float: left;
+  width: 18x;
+  margin-right: 8px;
+  opacity: 0.7;
+}
