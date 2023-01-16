@@ -64,6 +64,8 @@ Start your Python server and launch the index.html file and confirm that your ma
 
 ![image](https://user-images.githubusercontent.com/112348240/212614745-90f1f15e-5ded-4c4a-8487-a8f9d6b7b61d.png)
 
+![image](https://user-images.githubusercontent.com/112348240/212616035-ab2c0453-9947-4270-bdc3-70cf2fbc4d47.png)
+
 
 # Deliverable 3: Add an Additional Map
 
@@ -74,4 +76,6 @@ Add the map variable to the base layer object.
 Start your Python server and launch the index.html file and confirm that your map is similar to the following image, where there are three map styles, and displays the two earthquake data sets and the tectonic plate data.
 
 ![image](https://user-images.githubusercontent.com/112348240/212614839-c5daf828-cc8e-4e02-9049-c34652a30e94.png)
+
+![image](https://user-images.githubusercontent.com/112348240/212616172-1fcc197b-f873-4d01-b252-3152d4dc881c.png)
 
