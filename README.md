@@ -38,7 +38,7 @@ Start your Python server and launch the index.html file and confirm that your ma
 
 Your final map should look similar to the following image:
 
-![image](https://user-images.githubusercontent.com/112348240/212584515-6146989a-d742-48e8-8c6b-4d3a882776ec.png)
+![image](https://user-images.githubusercontent.com/112348240/212614288-4d40512d-3eea-4205-b0ec-6e7b8ae00162.png)
 
 # Deliverable 2: Add Major Earthquake Data
 
@@ -62,6 +62,9 @@ Add the major earthquake layer group variable you created in Step 1 to the map, 
 Then, add the major earthquake layer group variable to the map, i.e, majorEQ.addTo(map), and then close the d3.json() callback.
 Start your Python server and launch the index.html file and confirm that your map with the two earthquake data sets and tectonic plate data is similar to the following image.
 
+![image](https://user-images.githubusercontent.com/112348240/212614745-90f1f15e-5ded-4c4a-8487-a8f9d6b7b61d.png)
+
+
 # Deliverable 3: Add an Additional Map
 
 Using your knowledge of JavaScript and Leaflet.js add a third map style to your earthquake map.
@@ -69,3 +72,6 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 Using the options from the Mapbox styles Links to an external site., add a third map style as a tile layer object to the challenge_logic.js file.
 Add the map variable to the base layer object.
 Start your Python server and launch the index.html file and confirm that your map is similar to the following image, where there are three map styles, and displays the two earthquake data sets and the tectonic plate data.
+
+![image](https://user-images.githubusercontent.com/112348240/212614839-c5daf828-cc8e-4e02-9049-c34652a30e94.png)
+
