@@ -115,4 +115,23 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
   
   ![image](https://user-images.githubusercontent.com/112348240/213083022-2ca6e421-c0e6-4509-a75d-c794f7ca5f64.png)
 
+# **Sources:**
+
+https://www.mapbox.com/
+
+https://github.com/fraxen/tectonicplates
+
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
+
+JavaScript, Leaflet.js, and geoJSON data
+
+# **Module 14 Challenge**
+
+**By Marisol Gascon Linarez**
+
+**UCF Bootcamp Data Visualization and Analytics**
+
+
+
+
 
