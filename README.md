@@ -131,7 +131,8 @@ JavaScript, Leaflet.js, and geoJSON data
 
 **UCF Bootcamp Data Visualization and Analytics**
 
-
+Link to my github page
+https://gasconma1960.github.io/Mapping_Earthquakes/
 
 
 
